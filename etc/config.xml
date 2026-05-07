@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <hmh_review_auto_approval>
+            <verified_purchased>
+                <enabled>0</enabled>
+            </verified_purchased>
+        </hmh_review_auto_approval>
+    </default>
+</config>
